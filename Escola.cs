@@ -10,7 +10,7 @@ class Escola
 
      public string GetNomeescola()
     {
-        return this.nomeescola;
+        return this.nomeescola!;
     }
     public void Settipo(string tipo)
     {
@@ -23,7 +23,7 @@ class Escola
     }
     public string GetCnpj()
     {
-        return this.cnpj;
+        return this.cnpj!;
     }
     public void Setcnpj(string cnpj)
     {

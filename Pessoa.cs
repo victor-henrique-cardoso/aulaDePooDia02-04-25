@@ -12,7 +12,7 @@ class Pessoa
     //acesso controlado get pra mostra e set pra receber 
     public string Getdatanacimento()
     {
-        return this.datanacimento;
+        return this.datanacimento!;
     }
     public void SetDatanacimento(string datanacimento)
     {
@@ -20,7 +20,7 @@ class Pessoa
     }
     public string GetNome()
     {
-        return this.nome;
+        return this.nome!;
     }
     public void SetNome(string nome)
     {
@@ -28,7 +28,7 @@ class Pessoa
     }
     public string GetCpf()
     {
-        return this.cpf;
+        return this.cpf!;
     }
     public void SetCpf(string cpf)
     {
@@ -36,7 +36,7 @@ class Pessoa
     }
     public Endereco GetEndereco()
     {
-        return this.Endereco;
+        return this.Endereco!;
     }
     public void Setendereco(Endereco endereco)
     {

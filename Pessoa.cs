@@ -4,17 +4,47 @@ using static System.Convert;
 
 class Pessoa
 {
-    public string nome = "";
-    public string cpf = "";
-    public string datanacimento = "";
+    //atributos privados 
+    private string? nome, cpf, datanacimento;
 
-    public Endereco Endereco;
-    public Pessoa(){
-        Endereco = new Endereco();
+    public Endereco? Endereco;
+
+    //acesso controlado get pra mostra e set pra receber 
+    public string Getdatanacimento()
+    {
+        return this.datanacimento;
+    }
+    public void SetDatanacimento(string datanacimento)
+    {
+        this.datanacimento = datanacimento;
+    }
+    public string GetNome()
+    {
+        return this.nome;
+    }
+    public void SetNome(string nome)
+    {
+        this.nome = nome;
+    }
+    public string GetCpf()
+    {
+        return this.cpf;
+    }
+    public void SetCpf(string cpf)
+    {
+        this.cpf = cpf;
+    }
+    public Endereco GetEndereco()
+    {
+        return this.Endereco;
+    }
+    public void Setendereco(Endereco endereco)
+    {
+        this.Endereco = endereco;
     }
     public void ExibirinFormacaoPessoa()
     {
-        WriteLine($"Nome: {nome}\nCPF: {cpf}\nData de Nacimento: {datanacimento}");
-        Endereco.MostraEndereco();
+        WriteLine($"Nome: {GetNome()}\nCPF: {GetCpf()}\nData de Nacimento: {Getdatanacimento()}");
+
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\bin\Debug\net8.0\aulaclass.exe
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\bin\Debug\net8.0\aulaclass.deps.json
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\bin\Debug\net8.0\aulaclass.runtimeconfig.json
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\bin\Debug\net8.0\aulaclass.dll
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\bin\Debug\net8.0\aulaclass.pdb
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\obj\Debug\net8.0\aulaclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\obj\Debug\net8.0\aulaclass.AssemblyInfoInputs.cache
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\obj\Debug\net8.0\aulaclass.AssemblyInfo.cs
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\obj\Debug\net8.0\aulaclass.csproj.CoreCompileInputs.cache
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\obj\Debug\net8.0\aulaclass.sourcelink.json
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\obj\Debug\net8.0\aulaclass.dll
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\obj\Debug\net8.0\refint\aulaclass.dll
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\obj\Debug\net8.0\aulaclass.pdb
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\obj\Debug\net8.0\aulaclass.genruntimeconfig.cache
+C:\Users\2024102020050\Documents\c#\aulaDePooDia02-04-25\obj\Debug\net8.0\ref\aulaclass.dll
